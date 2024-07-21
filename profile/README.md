@@ -1,18 +1,7 @@
-## Hi there 👋
+## Hi 👋
+We are Altyn Group
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-структуры сайта для криптопроекта AltynGroup, который мы можем развивать по этапам:
-
-1. Главная страница
+1. Главная страница. 
 Название компании и логотип: AltynGroup
 Краткое описание: "Добро пожаловать во вселенную AltynGroup, где ваш цифровой актив AltynToken обретает истинную ценность."
 Видео-обзор или анимация: (Пока что укажем как будущий элемент)
